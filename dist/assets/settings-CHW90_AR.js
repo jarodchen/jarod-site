@@ -1,0 +1,1 @@
+var t={title:"My Site"};export{t};

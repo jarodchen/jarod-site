@@ -1,0 +1,1 @@
+import{o}from"./vendor-B-nj4jb1.js";export default o();
