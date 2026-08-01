@@ -1,0 +1,1 @@
+import{o}from"./vendor-BUm1DERu.js";export default o();

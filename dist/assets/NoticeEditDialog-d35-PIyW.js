@@ -1,0 +1,1 @@
+import{t}from"./NoticeEditDialog-JIXQkmi4.js";export{t as default};
