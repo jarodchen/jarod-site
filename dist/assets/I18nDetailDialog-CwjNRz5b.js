@@ -1,0 +1,1 @@
+import{t as a}from"./I18nDetailDialog-B3p_aXkT.js";export{a as default};

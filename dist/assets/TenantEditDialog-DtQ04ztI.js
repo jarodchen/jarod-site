@@ -1,0 +1,1 @@
+import{t}from"./TenantEditDialog-DnSSRPCW.js";export{t as default};
