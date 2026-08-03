@@ -1,0 +1,1 @@
+import{Fn as e,dn as r}from"./element-icons-BuPerc54.js";import{t as s}from"./_plugin-vue_export-helper-xmKZ9flr.js";var t={class:""};var n=s({},[["render",function(s,n){return e(),r("div",t,"demo2-sub2")}]]);export{n as default};

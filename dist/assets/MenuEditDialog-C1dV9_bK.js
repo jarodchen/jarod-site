@@ -1,0 +1,1 @@
+import{t}from"./MenuEditDialog-DpsjGrt7.js";export{t as default};

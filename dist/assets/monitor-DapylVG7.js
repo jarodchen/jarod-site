@@ -1,0 +1,1 @@
+import{i as o,n as t,t as e}from"./request-DcUUm7jm.js";var n={getServerInfo:()=>t("/monitor/server"),getOnlineUsers:o=>t("/monitor/online/list",o),forceLogout:o=>e(`/monitor/online/${o}`),getCacheInfo:()=>t("/monitor/cache"),getJobList:o=>t("/monitor/job/list",o),runJob:t=>o("/monitor/job/run",t),changeJobStatus:t=>o("/monitor/job/changeStatus",t)};export{n as t};

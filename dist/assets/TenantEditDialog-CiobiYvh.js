@@ -1,0 +1,1 @@
+import{t}from"./TenantEditDialog-Dac8SmIR.js";export{t as default};

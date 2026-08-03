@@ -1,0 +1,1 @@
+import{f as r}from"./vue-vendor-BmCc_UYw.js";import{t as o}from"./app-Bu2ThnLA.js";function a(){const a=o(),{isDark:e,darkMode:t}=r(a);return{isDark:e,darkMode:t,toggleDark:()=>a.toggleDark(),setDarkMode:r=>a.setDarkMode(r)}}export{a as t};
