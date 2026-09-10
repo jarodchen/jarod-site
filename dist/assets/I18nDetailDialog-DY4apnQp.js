@@ -1,1 +1,0 @@
-import{t as a}from"./I18nDetailDialog-OsipgU4L.js";export{a as default};

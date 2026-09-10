@@ -1,0 +1,1 @@
+import{a as e,i as t,r as a,t as s}from"./request-Zw_RJQ6Q.js";var f={getAll:()=>a("/system/feature-flag/all"),getList:e=>a("/system/feature-flag/list",e),create:e=>t("/system/feature-flag",e),update:(t,a)=>e(`/system/feature-flag/${t}`,a),changeStatus:(t,a)=>e(`/system/feature-flag/${t}/status`,{isEnabled:a}),delete:e=>s(`/system/feature-flag/${e}`)};export{f as t};

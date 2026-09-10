@@ -1,0 +1,1 @@
+import{r as t}from"./request-Zw_RJQ6Q.js";function e(e={}){const{keyword:r,index:s="im-message",page:o=1,size:a=20}=e;return t("/search",{keyword:r,index:s,page:o,size:a}).then(t=>{const e=t&&void 0!==t.code?t.data:t;return e&&"object"==typeof e?{total:Number(e.total)||0,hits:Array.isArray(e.hits)?e.hits:[]}:{total:0,hits:[]}})}export{e as t};

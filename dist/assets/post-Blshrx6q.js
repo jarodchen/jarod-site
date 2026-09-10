@@ -1,0 +1,1 @@
+import{a as s,i as t,r as e,t as a}from"./request-Zw_RJQ6Q.js";var o={getList:s=>e("/system/post/list",s),changeStatus:(t,e)=>s(`/system/post/${t}/status`,{status:e}),delete:s=>a(`/system/post/${s}`),update:(t,e)=>s(`/system/post/${t}`,e),create:s=>t("/system/post",s)};export{o as t};

@@ -1,0 +1,1 @@
+import{a as t,i as e,r as s,t as a}from"./request-Zw_RJQ6Q.js";var p={getTree:()=>s("/system/dept/tree"),getList:t=>s("/system/dept/list",t),delete:t=>a(`/system/dept/${t}`),update:(e,s)=>t(`/system/dept/${e}`,s),changeStatus:(e,s)=>t(`/system/dept/${e}/status`,{status:s}),create:t=>e("/system/dept",t)};export{p as t};

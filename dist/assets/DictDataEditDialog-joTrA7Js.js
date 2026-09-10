@@ -1,1 +1,0 @@
-import{t}from"./DictDataEditDialog-Njh2SL48.js";export{t as default};

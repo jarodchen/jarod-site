@@ -1,0 +1,1 @@
+import{c as r}from"./time-B9GFbQEq.js";function t(t,{startKey:e,endKey:a}){if(!Array.isArray(t))return{[e]:void 0,[a]:void 0};const[i,n]=t;return{[e]:r(i,"start"),[a]:r(n,"end")}}export{t};

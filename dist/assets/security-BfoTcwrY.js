@@ -1,0 +1,1 @@
+import{a as t,i,r as a,t as s}from"./request-Zw_RJQ6Q.js";var e={getBlacklist:t=>a("/security/blacklist",t),getRateLimit:()=>a("/security/ratelimit"),updateRateLimit:i=>t("/security/ratelimit",i),addBlacklist:t=>i("/security/blacklist",t),removeBlacklist:t=>s(`/security/blacklist/${t}`)};export{e as t};

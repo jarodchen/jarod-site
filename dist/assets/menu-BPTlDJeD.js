@@ -1,0 +1,1 @@
+import{a as e,i as s,r as t,t as m}from"./request-Zw_RJQ6Q.js";var n={getTree:()=>t("/system/menu/tree"),getList:e=>t("/system/menu/list",e),create:e=>s("/system/menu",e),update:(s,t)=>e(`/system/menu/${s}`,t),delete:e=>m(`/system/menu/${e}`),getMenuOptions:()=>t("/system/menu/options"),getPermsOptions:()=>t("/system/menu/perms-options")};export{n as t};

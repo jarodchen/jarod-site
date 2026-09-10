@@ -1,1 +1,0 @@
-import{t}from"./SectionCard--fMgr5ie.js";export{t as default};
