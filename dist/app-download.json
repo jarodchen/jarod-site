@@ -1,0 +1,5 @@
+{
+  "ios": "https://www.example.com/app",
+  "android": "https://www.example.com/app",
+  "fallback": "https://www.example.com/app"
+}
