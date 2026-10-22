@@ -1,1 +1,0 @@
-import{t}from"./TenantEditDialog-vgqKiVan.js";export{t as default};

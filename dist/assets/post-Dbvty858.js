@@ -1,1 +1,0 @@
-import{A as s,D as t,j as e,k as a}from"./reporter-9LPMqt46.js";var o={getList:s=>a("/system/post/list",s),changeStatus:(s,t)=>e(`/system/post/${s}/status`,{status:t}),delete:s=>t(`/system/post/${s}`),update:(s,t)=>e(`/system/post/${s}`,t),create:t=>s("/system/post",t)};export{o as t};
