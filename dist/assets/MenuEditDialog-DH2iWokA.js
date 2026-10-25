@@ -1,0 +1,1 @@
+import{t}from"./MenuEditDialog-DRjcaYBb.js";export{t as default};

@@ -1,0 +1,1 @@
+import{A as t,D as e,j as s,k as a}from"./reporter-ClBSdnmI.js";var p={getTree:()=>a("/system/dept/tree"),getList:t=>a("/system/dept/list",t),delete:t=>e(`/system/dept/${t}`),update:(t,e)=>s(`/system/dept/${t}`,e),changeStatus:(t,e)=>s(`/system/dept/${t}/status`,{status:e}),create:e=>t("/system/dept",e)};export{p as t};

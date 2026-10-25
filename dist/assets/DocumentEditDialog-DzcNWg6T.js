@@ -1,0 +1,1 @@
+import{t}from"./DocumentEditDialog-C2TCs_eN.js";export{t as default};

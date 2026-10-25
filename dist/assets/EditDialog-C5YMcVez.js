@@ -1,0 +1,1 @@
+import{t}from"./EditDialog--OvTLRPe.js";export{t as default};

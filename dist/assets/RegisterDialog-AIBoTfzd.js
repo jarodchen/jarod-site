@@ -1,0 +1,1 @@
+import{t}from"./RegisterDialog-CAwtttzu.js";export{t as default};
