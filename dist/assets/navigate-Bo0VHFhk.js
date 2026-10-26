@@ -1,0 +1,1 @@
+import{Nn as t,zn as n}from"./element-icons-CRywvr5f.js";async function a(t,a="/"){const o=t.currentRoute.value.fullPath;try{await t.push(a)}catch{}if(await n(),t.currentRoute.value.fullPath!==o)return!0;const e="/jarod-site/";return globalThis.window.location.href=e.endsWith("/")?e:`${e}/`,!1}function o(){globalThis?.window?.location?.reload()}t();export{a as n,o as t};

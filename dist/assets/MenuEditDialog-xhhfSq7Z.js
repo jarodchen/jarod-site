@@ -1,0 +1,1 @@
+import{t}from"./MenuEditDialog-DAWIBh8x.js";export{t as default};

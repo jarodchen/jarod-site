@@ -1,0 +1,1 @@
+import{t}from"./SectionCard-C2GacfQL.js";export{t as default};

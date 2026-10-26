@@ -1,0 +1,1 @@
+import{t}from"./I18nEditDialog-BzV_amQ4.js";export{t as default};
