@@ -1,0 +1,1 @@
+import{t}from"./I18nEditDialog-CefH0LvI.js";export{t as default};

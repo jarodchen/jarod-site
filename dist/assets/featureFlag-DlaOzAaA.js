@@ -1,0 +1,1 @@
+import{A as e,D as t,j as a,k as s}from"./reporter-CZf91TI2.js";var r={getAll:()=>s("/system/feature-flag/all"),getList:e=>s("/system/feature-flag/list",e),create:t=>e("/system/feature-flag",t),update:(e,t)=>a(`/system/feature-flag/${e}`,t),changeStatus:(e,t)=>a(`/system/feature-flag/${e}/status`,{isEnabled:t}),delete:e=>t(`/system/feature-flag/${e}`)};export{r as t};

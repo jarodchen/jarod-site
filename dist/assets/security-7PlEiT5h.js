@@ -1,1 +1,0 @@
-import{A as t,D as i,j as a,k as e}from"./reporter-CThMJCT9.js";var s={getBlacklist:t=>e("/security/blacklist",t),getRateLimit:()=>e("/security/ratelimit"),updateRateLimit:t=>a("/security/ratelimit",t),addBlacklist:i=>t("/security/blacklist",i),removeBlacklist:t=>i(`/security/blacklist/${t}`)};export{s as t};

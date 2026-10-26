@@ -1,0 +1,1 @@
+import{t}from"./DocumentEditDialog-FC4OQk-6.js";export{t as default};

@@ -1,0 +1,1 @@
+import{t}from"./TenantEditDialog-iTreG9sc.js";export{t as default};

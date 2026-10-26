@@ -1,1 +1,0 @@
-import{t}from"./TenantEditDialog-Bnjlxewl.js";export{t as default};
