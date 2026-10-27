@@ -1,0 +1,1 @@
+import{t}from"./MenuEditDialog-BRreKnwS.js";export{t as default};

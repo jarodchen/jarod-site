@@ -1,0 +1,1 @@
+import{A as e,D as s,j as t,k as m}from"./reporter-BAuIN233.js";var n={getTree:()=>m("/system/menu/tree"),getList:e=>m("/system/menu/list",e),create:s=>e("/system/menu",s),update:(e,s)=>t(`/system/menu/${e}`,s),delete:e=>s(`/system/menu/${e}`),getMenuOptions:()=>m("/system/menu/options"),getPermsOptions:()=>m("/system/menu/perms-options")};export{n as t};
