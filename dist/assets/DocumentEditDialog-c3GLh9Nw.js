@@ -1,0 +1,1 @@
+import{t}from"./DocumentEditDialog-DWVGHipo.js";export{t as default};

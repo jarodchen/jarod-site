@@ -1,0 +1,1 @@
+import{t}from"./TenantEditDialog-Cp2fv91n.js";export{t as default};

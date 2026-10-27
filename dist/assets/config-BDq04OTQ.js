@@ -1,0 +1,1 @@
+import{A as s,D as t,j as e,k as a}from"./reporter-CRKeft8T.js";var o={getList:s=>a("/system/config/list",s),changeStatus:(s,t)=>e(`/system/config/${s}/status`,{status:t}),delete:s=>t(`/system/config/${s}`),update:(s,t)=>e(`/system/config/${s}`,t),create:t=>s("/system/config",t)};export{o as t};
