@@ -1,0 +1,1 @@
+import{t}from"./RegisterDialog-BTD6_ru4.js";export{t as default};

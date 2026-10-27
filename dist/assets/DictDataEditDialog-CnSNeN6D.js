@@ -1,1 +1,0 @@
-import{t}from"./DictDataEditDialog-BSr7Fg5-.js";export{t as default};
