@@ -1,1 +1,0 @@
-import{t}from"./DictTypeEditDialog-B3et9p7j.js";export{t as default};

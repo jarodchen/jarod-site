@@ -1,0 +1,1 @@
+import{t as a}from"./I18nDetailDialog-DjGIabb6.js";export{a as default};

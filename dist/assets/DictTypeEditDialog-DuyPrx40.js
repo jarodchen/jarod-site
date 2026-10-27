@@ -1,0 +1,1 @@
+import{t}from"./DictTypeEditDialog-DSSOuIpv.js";export{t as default};

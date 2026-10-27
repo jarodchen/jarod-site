@@ -1,0 +1,1 @@
+import{Bn as t,Pn as n}from"./element-icons-BR0S-PzC.js";async function a(n,a="/"){const o=n.currentRoute.value.fullPath;try{await n.push(a)}catch{}if(await t(),n.currentRoute.value.fullPath!==o)return!0;const e="/jarod-site/";return globalThis.window.location.href=e.endsWith("/")?e:`${e}/`,!1}function o(){globalThis?.window?.location?.reload()}n();export{a as n,o as t};

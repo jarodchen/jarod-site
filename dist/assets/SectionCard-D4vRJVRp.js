@@ -1,0 +1,1 @@
+import{t}from"./SectionCard-CP9FIYlT.js";export{t as default};

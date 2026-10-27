@@ -1,0 +1,1 @@
+import{t}from"./I18nEditDialog-DyftWFEX.js";export{t as default};

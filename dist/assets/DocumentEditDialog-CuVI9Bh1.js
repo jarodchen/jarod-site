@@ -1,0 +1,1 @@
+import{t}from"./DocumentEditDialog-B_HWhH0K.js";export{t as default};
