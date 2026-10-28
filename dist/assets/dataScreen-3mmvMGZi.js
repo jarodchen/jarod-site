@@ -1,0 +1,1 @@
+import{t as a}from"./dataScreen-0056Ob7T.js";export{a as default};

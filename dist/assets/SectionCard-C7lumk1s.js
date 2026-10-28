@@ -1,1 +1,0 @@
-import{t}from"./SectionCard-Cv0Zwejn.js";export{t as default};
