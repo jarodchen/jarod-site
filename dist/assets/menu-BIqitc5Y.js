@@ -1,1 +1,0 @@
-import{D as e,E as s,O as t,w as m}from"./login-Dk7OkK83.js";var n={getTree:()=>s("/system/menu/tree"),getList:e=>s("/system/menu/list",e),create:s=>e("/system/menu",s),update:(e,s)=>t(`/system/menu/${e}`,s),delete:e=>m(`/system/menu/${e}`),getMenuOptions:()=>s("/system/menu/options"),getPermsOptions:()=>s("/system/menu/perms-options")};export{n as t};

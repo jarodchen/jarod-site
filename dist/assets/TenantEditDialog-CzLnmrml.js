@@ -1,0 +1,1 @@
+import{t}from"./TenantEditDialog-C5WXMICT.js";export{t as default};

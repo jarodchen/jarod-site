@@ -1,1 +1,0 @@
-import{t}from"./DictTypeEditDialog-BUubC-yC.js";export{t as default};

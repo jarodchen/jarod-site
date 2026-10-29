@@ -1,0 +1,1 @@
+import{t}from"./NoticeEditDialog-DwvEOUXI.js";export{t as default};
