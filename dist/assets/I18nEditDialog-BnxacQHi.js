@@ -1,0 +1,1 @@
+import{t}from"./I18nEditDialog-CGJgue_N.js";export{t as default};

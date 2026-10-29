@@ -1,1 +1,0 @@
-import{D as t,E as i,O as a,w as s}from"./login-DRgUHf0G.js";var e={getBlacklist:t=>i("/security/blacklist",t),getRateLimit:()=>i("/security/ratelimit"),updateRateLimit:t=>a("/security/ratelimit",t),addBlacklist:i=>t("/security/blacklist",i),removeBlacklist:t=>s(`/security/blacklist/${t}`)};export{e as t};
