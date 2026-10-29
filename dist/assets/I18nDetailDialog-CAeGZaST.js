@@ -1,0 +1,1 @@
+import{t as a}from"./I18nDetailDialog-CQSnDAmB.js";export{a as default};

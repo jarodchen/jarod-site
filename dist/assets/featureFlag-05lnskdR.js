@@ -1,0 +1,1 @@
+import{D as e,E as t,O as a,w as s}from"./login-Dk7OkK83.js";var l={getAll:()=>t("/system/feature-flag/all"),getList:e=>t("/system/feature-flag/list",e),create:t=>e("/system/feature-flag",t),update:(e,t)=>a(`/system/feature-flag/${e}`,t),changeStatus:(e,t)=>a(`/system/feature-flag/${e}/status`,{isEnabled:t}),delete:e=>s(`/system/feature-flag/${e}`)};export{l as t};

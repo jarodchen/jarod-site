@@ -1,1 +1,0 @@
-import{D as s,E as t,O as e,w as a}from"./login-BY02BSYb.js";var o={getList:s=>t("/system/post/list",s),changeStatus:(s,t)=>e(`/system/post/${s}/status`,{status:t}),delete:s=>a(`/system/post/${s}`),update:(s,t)=>e(`/system/post/${s}`,t),create:t=>s("/system/post",t)};export{o as t};

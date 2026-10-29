@@ -1,0 +1,1 @@
+import{t}from"./DictDataEditDialog-CULHL0Sl.js";export{t as default};

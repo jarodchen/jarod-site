@@ -1,1 +1,0 @@
-import{t}from"./TenantEditDialog-BH4VPIlt.js";export{t as default};
