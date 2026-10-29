@@ -1,0 +1,1 @@
+import{t}from"./MenuEditDialog-CVecbhx-.js";export{t as default};

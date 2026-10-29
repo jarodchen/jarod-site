@@ -1,0 +1,1 @@
+import{t as a}from"./I18nDetailDialog-B_zrPAly.js";export{a as default};

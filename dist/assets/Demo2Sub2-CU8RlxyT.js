@@ -1,1 +1,0 @@
-import{In as e,Qn as r,wn as s}from"./element-icons-B-jAJgNM.js";import{t as n}from"./_plugin-vue_export-helper-DgLP3hnZ.js";e();var a={class:""};var o=n({},[["render",function(e,n){return r(),s("div",a,"demo2-sub2")}]]);export{o as default};

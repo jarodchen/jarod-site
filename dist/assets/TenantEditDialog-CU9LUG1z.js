@@ -1,1 +1,0 @@
-import{t}from"./TenantEditDialog-C3-zCfEN.js";export{t as default};

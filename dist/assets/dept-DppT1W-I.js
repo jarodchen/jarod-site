@@ -1,0 +1,1 @@
+import{D as t,E as e,O as s,w as a}from"./login-C296ipns.js";var p={getTree:()=>e("/system/dept/tree"),getList:t=>e("/system/dept/list",t),delete:t=>a(`/system/dept/${t}`),update:(t,e)=>s(`/system/dept/${t}`,e),changeStatus:(t,e)=>s(`/system/dept/${t}/status`,{status:e}),create:e=>t("/system/dept",e)};export{p as t};
