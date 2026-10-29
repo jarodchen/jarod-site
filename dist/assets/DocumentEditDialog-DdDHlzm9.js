@@ -1,1 +1,0 @@
-import{t}from"./DocumentEditDialog-DofF5R4J.js";export{t as default};

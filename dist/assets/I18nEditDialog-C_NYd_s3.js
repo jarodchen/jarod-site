@@ -1,0 +1,1 @@
+import{t}from"./I18nEditDialog-LIyc1FIb.js";export{t as default};

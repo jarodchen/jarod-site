@@ -1,0 +1,1 @@
+import{t}from"./RegisterDialog-CaEThf7_.js";export{t as default};

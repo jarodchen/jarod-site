@@ -1,0 +1,1 @@
+import{D as s,E as t,O as e,w as a}from"./login-DRgUHf0G.js";var i={getList:s=>t("/system/config/list",s),changeStatus:(s,t)=>e(`/system/config/${s}/status`,{status:t}),delete:s=>a(`/system/config/${s}`),update:(s,t)=>e(`/system/config/${s}`,t),create:t=>s("/system/config",t)};export{i as t};
