@@ -1,0 +1,1 @@
+import{E as t}from"./login-mWNnnAq8.js";function e(e={}){const{keyword:o,index:r="im-message",page:s=1,size:i=20}=e;return t("/search",{keyword:o,index:r,page:s,size:i}).then(t=>{const e=t&&void 0!==t.code?t.data:t;return e&&"object"==typeof e?{total:Number(e.total)||0,hits:Array.isArray(e.hits)?e.hits:[]}:{total:0,hits:[]}})}export{e as t};

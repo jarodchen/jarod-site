@@ -1,0 +1,1 @@
+import{t}from"./I18nEditDialog-DvTdPaBs.js";export{t as default};

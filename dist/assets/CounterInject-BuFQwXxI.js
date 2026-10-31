@@ -1,0 +1,1 @@
+import{t}from"./CounterInject-_44mAWMj.js";export{t as default};

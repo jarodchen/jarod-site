@@ -1,0 +1,1 @@
+import{En as e,Rn as r,er as s}from"./element-icons-Cq-VG3I1.js";import{t as a}from"./_plugin-vue_export-helper-DgLP3hnZ.js";r();var n={class:""};var o=a({},[["render",function(r,a){return s(),e("div",n,"demo2-sub2")}]]);export{o as default};

@@ -1,1 +1,0 @@
-import{c as r}from"./time-Wx3dB-nw.js";function t(t,{startKey:e,endKey:i}){if(!Array.isArray(t))return{[e]:void 0,[i]:void 0};const[n,o]=t;return{[e]:r(n,"start"),[i]:r(o,"end")}}export{t};

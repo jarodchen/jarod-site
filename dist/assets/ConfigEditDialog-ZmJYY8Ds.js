@@ -1,0 +1,1 @@
+import{t}from"./ConfigEditDialog-DP43dM0G.js";export{t as default};
