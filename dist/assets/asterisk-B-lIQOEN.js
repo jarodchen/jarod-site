@@ -1,0 +1,1 @@
+import{Gi as o}from"./vendor-CKbJEPZn.js";export{o as asterisk};

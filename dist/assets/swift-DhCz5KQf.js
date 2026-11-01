@@ -1,0 +1,1 @@
+import{ur as r}from"./vendor-CKbJEPZn.js";export{r as swift};

@@ -1,0 +1,1 @@
+import{t}from"./DocumentEditDialog-CvWudLpZ.js";export{t as default};

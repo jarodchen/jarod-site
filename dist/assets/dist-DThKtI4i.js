@@ -1,0 +1,1 @@
+import{Xa as a,Ya as o}from"./vendor-CKbJEPZn.js";export{o as angular};

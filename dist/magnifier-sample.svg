@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0 L0 0 0 20" fill="none" stroke="#e6e9ef" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b8def"/>
+      <stop offset="1" stop-color="#8e54e9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="700" fill="#f7f8fa"/>
+  <rect width="900" height="700" fill="url(#grid)"/>
+
+  <text x="40" y="64" font-family="sans-serif" font-size="40" font-weight="700" fill="#222">Vue Shop · 商品细节图</text>
+  <text x="40" y="98" font-family="sans-serif" font-size="15" fill="#666">悬停放大可看清右下角极小文字与条形码细节（矢量图放大不失真）</text>
+
+  <!-- 左侧商品卡片 -->
+  <rect x="40" y="130" width="380" height="380" rx="16" fill="#ffffff" stroke="#dfe3e8"/>
+  <rect x="70" y="160" width="320" height="200" rx="12" fill="url(#g1)"/>
+  <text x="92" y="285" font-family="sans-serif" font-size="26" font-weight="700" fill="#fff">Sample Product</text>
+
+  <circle cx="92" cy="408" r="18" fill="#ff6b6b"/>
+  <circle cx="142" cy="408" r="18" fill="#feca57"/>
+  <circle cx="192" cy="408" r="18" fill="#48dbfb"/>
+  <circle cx="242" cy="408" r="18" fill="#1dd1a1"/>
+  <text x="284" y="414" font-family="sans-serif" font-size="13" fill="#444">颜色可选</text>
+
+  <text x="72" y="462" font-family="sans-serif" font-size="11" fill="#888">SKU: VUE-2026-001 · 规格: 标准版 · 产地: 演示用</text>
+  <text x="72" y="482" font-family="sans-serif" font-size="9" fill="#999">本段为极小文字，请用放大镜查看其清晰度与边缘锯齿情况。</text>
+
+  <!-- 条形码 -->
+  <g transform="translate(72,500)" fill="#333">
+    <rect x="0" y="0" width="3" height="60"/>
+    <rect x="6" y="0" width="1" height="60"/>
+    <rect x="10" y="0" width="4" height="60"/>
+    <rect x="17" y="0" width="2" height="60"/>
+    <rect x="22" y="0" width="1" height="60"/>
+    <rect x="26" y="0" width="3" height="60"/>
+    <rect x="32" y="0" width="2" height="60"/>
+    <rect x="37" y="0" width="1" height="60"/>
+    <rect x="41" y="0" width="4" height="60"/>
+    <rect x="48" y="0" width="1" height="60"/>
+    <rect x="52" y="0" width="2" height="60"/>
+    <rect x="57" y="0" width="3" height="60"/>
+    <rect x="63" y="0" width="1" height="60"/>
+    <rect x="67" y="0" width="4" height="60"/>
+    <rect x="74" y="0" width="2" height="60"/>
+    <rect x="79" y="0" width="1" height="60"/>
+    <rect x="83" y="0" width="3" height="60"/>
+    <rect x="89" y="0" width="2" height="60"/>
+    <rect x="94" y="0" width="1" height="60"/>
+    <rect x="98" y="0" width="4" height="60"/>
+    <rect x="105" y="0" width="2" height="60"/>
+    <rect x="110" y="0" width="1" height="60"/>
+    <rect x="114" y="0" width="3" height="60"/>
+    <rect x="120" y="0" width="2" height="60"/>
+    <rect x="125" y="0" width="1" height="60"/>
+    <rect x="129" y="0" width="4" height="60"/>
+    <rect x="136" y="0" width="2" height="60"/>
+    <rect x="141" y="0" width="1" height="60"/>
+    <rect x="145" y="0" width="3" height="60"/>
+    <rect x="151" y="0" width="2" height="60"/>
+    <rect x="156" y="0" width="1" height="60"/>
+    <rect x="160" y="0" width="4" height="60"/>
+    <rect x="167" y="0" width="2" height="60"/>
+    <rect x="172" y="0" width="3" height="60"/>
+    <rect x="178" y="0" width="1" height="60"/>
+    <rect x="182" y="0" width="2" height="60"/>
+    <rect x="187" y="0" width="4" height="60"/>
+    <rect x="194" y="0" width="1" height="60"/>
+    <rect x="198" y="0" width="3" height="60"/>
+    <rect x="204" y="0" width="2" height="60"/>
+    <rect x="209" y="0" width="1" height="60"/>
+    <rect x="213" y="0" width="4" height="60"/>
+    <rect x="220" y="0" width="2" height="60"/>
+    <rect x="225" y="0" width="1" height="60"/>
+    <rect x="229" y="0" width="3" height="60"/>
+    <rect x="235" y="0" width="2" height="60"/>
+    <rect x="240" y="0" width="1" height="60"/>
+    <rect x="244" y="0" width="4" height="60"/>
+    <rect x="251" y="0" width="2" height="60"/>
+    <rect x="256" y="0" width="3" height="60"/>
+    <rect x="262" y="0" width="1" height="60"/>
+    <rect x="266" y="0" width="2" height="60"/>
+    <rect x="271" y="0" width="4" height="60"/>
+    <rect x="278" y="0" width="2" height="60"/>
+    <rect x="283" y="0" width="1" height="60"/>
+    <rect x="287" y="0" width="3" height="60"/>
+    <rect x="293" y="0" width="2" height="60"/>
+    <rect x="298" y="0" width="1" height="60"/>
+  </g>
+
+  <!-- 右侧细节特写 -->
+  <rect x="460" y="130" width="400" height="380" rx="16" fill="#ffffff" stroke="#dfe3e8"/>
+  <text x="484" y="172" font-family="sans-serif" font-size="18" font-weight="700" fill="#222">细节特写</text>
+
+  <text x="484" y="206" font-family="monospace" font-size="8" fill="#555">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</text>
+  <text x="484" y="220" font-family="monospace" font-size="8" fill="#555">Sed do eiusmod tempor incididunt ut labore et dolore magna.</text>
+  <text x="484" y="234" font-family="monospace" font-size="8" fill="#555">Ut enim ad minim veniam, quis nostrud exercitation ullamco.</text>
+  <text x="484" y="248" font-family="monospace" font-size="8" fill="#555">Duis aute irure dolor in reprehenderit in voluptate velit esse.</text>
+  <text x="484" y="262" font-family="monospace" font-size="8" fill="#555">Excepteur sint occaecat cupidatat non proident, sunt in culpa.</text>
+
+  <!-- 极小二维码式矩阵 -->
+  <g transform="translate(484,290)" fill="#333">
+    <rect x="0" y="0" width="8" height="8"/>
+    <rect x="16" y="0" width="8" height="8"/>
+    <rect x="32" y="0" width="8" height="8"/>
+    <rect x="48" y="0" width="8" height="8"/>
+    <rect x="64" y="0" width="8" height="8"/>
+    <rect x="80" y="0" width="8" height="8"/>
+    <rect x="96" y="0" width="8" height="8"/>
+    <rect x="112" y="0" width="8" height="8"/>
+    <rect x="128" y="0" width="8" height="8"/>
+    <rect x="144" y="0" width="8" height="8"/>
+    <rect x="160" y="0" width="8" height="8"/>
+    <rect x="176" y="0" width="8" height="8"/>
+    <rect x="192" y="0" width="8" height="8"/>
+    <rect x="208" y="0" width="8" height="8"/>
+
+    <rect x="8" y="16" width="8" height="8"/>
+    <rect x="24" y="16" width="8" height="8"/>
+    <rect x="40" y="16" width="8" height="8"/>
+    <rect x="56" y="16" width="8" height="8"/>
+    <rect x="72" y="16" width="8" height="8"/>
+    <rect x="88" y="16" width="8" height="8"/>
+    <rect x="104" y="16" width="8" height="8"/>
+    <rect x="120" y="16" width="8" height="8"/>
+    <rect x="136" y="16" width="8" height="8"/>
+    <rect x="152" y="16" width="8" height="8"/>
+    <rect x="168" y="16" width="8" height="8"/>
+    <rect x="184" y="16" width="8" height="8"/>
+    <rect x="200" y="16" width="8" height="8"/>
+
+    <rect x="0" y="32" width="8" height="8"/>
+    <rect x="16" y="32" width="8" height="8"/>
+    <rect x="32" y="32" width="8" height="8"/>
+    <rect x="48" y="32" width="8" height="8"/>
+    <rect x="64" y="32" width="8" height="8"/>
+    <rect x="80" y="32" width="8" height="8"/>
+    <rect x="96" y="32" width="8" height="8"/>
+    <rect x="112" y="32" width="8" height="8"/>
+    <rect x="128" y="32" width="8" height="8"/>
+    <rect x="144" y="32" width="8" height="8"/>
+    <rect x="160" y="32" width="8" height="8"/>
+    <rect x="176" y="32" width="8" height="8"/>
+    <rect x="192" y="32" width="8" height="8"/>
+    <rect x="208" y="32" width="8" height="8"/>
+
+    <rect x="8" y="48" width="8" height="8"/>
+    <rect x="24" y="48" width="8" height="8"/>
+    <rect x="40" y="48" width="8" height="8"/>
+    <rect x="56" y="48" width="8" height="8"/>
+    <rect x="72" y="48" width="8" height="8"/>
+    <rect x="88" y="48" width="8" height="8"/>
+    <rect x="104" y="48" width="8" height="8"/>
+    <rect x="120" y="48" width="8" height="8"/>
+    <rect x="136" y="48" width="8" height="8"/>
+    <rect x="152" y="48" width="8" height="8"/>
+    <rect x="168" y="48" width="8" height="8"/>
+    <rect x="184" y="48" width="8" height="8"/>
+    <rect x="200" y="48" width="8" height="8"/>
+  </g>
+
+  <text x="484" y="388" font-family="sans-serif" font-size="11" fill="#888">上图为 8px 网格矩阵，放大后边缘依旧锐利。</text>
+  <text x="484" y="410" font-family="sans-serif" font-size="11" fill="#888">右侧 8px 等宽小字用于检验缩放清晰度。</text>
+  <text x="484" y="432" font-family="sans-serif" font-size="11" fill="#888">底部条形码条宽 1–4px，放大可见差异。</text>
+
+  <text x="484" y="478" font-family="sans-serif" font-size="9" fill="#aaa">© 2026 Vue Shop Demo · 仅用于示例中心放大镜演示 · 矢量图像</text>
+</svg>

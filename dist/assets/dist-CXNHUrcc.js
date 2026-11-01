@@ -1,0 +1,1 @@
+import{Ca as a,Sa as s,Ta as o,wa as r}from"./vendor-CKbJEPZn.js";export{r as python};

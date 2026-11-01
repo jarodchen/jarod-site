@@ -1,0 +1,1 @@
+import{Xn as o}from"./vendor-CKbJEPZn.js";export{o as vhdl};

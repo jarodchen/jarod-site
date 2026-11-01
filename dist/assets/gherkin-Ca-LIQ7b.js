@@ -1,0 +1,1 @@
+import{di as o}from"./vendor-CKbJEPZn.js";export{o as gherkin};

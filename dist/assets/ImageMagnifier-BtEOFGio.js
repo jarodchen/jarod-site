@@ -1,0 +1,1 @@
+import{t as a}from"./ImageMagnifier-BxpokQO5.js";export{a as default};

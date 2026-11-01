@@ -1,0 +1,1 @@
+import{br as r}from"./vendor-CKbJEPZn.js";export{r as shell};

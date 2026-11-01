@@ -1,1 +1,0 @@
-import{t}from"./SectionCard-Cp2w55pe.js";export{t as default};

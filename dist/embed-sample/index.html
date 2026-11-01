@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>被内嵌的示例网页</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        background: #fff;
+        color: #222;
+        transition:
+          background 0.2s,
+          color 0.2s;
+      }
+      body.dark {
+        background: #1f2430;
+        color: #eee;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 20px;
+        background: linear-gradient(90deg, #5b8def, #8e54e9);
+        color: #fff;
+      }
+      header h1 {
+        font-size: 18px;
+        margin: 0;
+      }
+      .wrap {
+        padding: 24px 20px;
+        max-width: 720px;
+        margin: 0 auto;
+      }
+      .card {
+        border: 1px solid #e3e6eb;
+        border-radius: 12px;
+        padding: 18px;
+        margin-bottom: 16px;
+      }
+      button {
+        border: none;
+        border-radius: 8px;
+        padding: 8px 16px;
+        font-size: 14px;
+        cursor: pointer;
+        background: #5b8def;
+        color: #fff;
+        margin-right: 8px;
+      }
+      button.ghost {
+        background: transparent;
+        color: inherit;
+        border: 1px solid #5b8def;
+      }
+      .count {
+        font-size: 28px;
+        font-weight: 700;
+        color: #8e54e9;
+      }
+      p {
+        line-height: 1.8;
+        color: #555;
+      }
+      body.dark p {
+        color: #cfd3da;
+      }
+      .hint {
+        font-size: 12px;
+        color: #999;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>📦 被内嵌的示例网页</h1>
+      <button
+        class="ghost"
+        id="themeBtn"
+        style="
+          background: rgba(255, 255, 255, 0.15);
+          color: #fff;
+          border: 1px solid rgba(255, 255, 255, 0.6);
+        "
+      >
+        切换主题
+      </button>
+    </header>
+
+    <div class="wrap">
+      <div class="card">
+        <h3>这是一个完全独立的网页</h3>
+        <p>
+          它被「内嵌网页」demo 通过 iframe / 无界 嵌入到主应用里。页面拥有自己的 DOM、样式与脚本，
+          与主应用相互隔离、互不干扰，却又能被整体嵌入展示。
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>交互验证（点击计数）</h3>
+        <p>下方计数由<strong>本页面自己的 JS</strong>维护，证明被嵌入的网页脚本在独立运行。</p>
+        <div class="count" id="count">0</div>
+        <button id="incBtn">+1</button>
+        <button class="ghost" id="resetBtn">重置</button>
+      </div>
+
+      <div class="card">
+        <h3>关于内嵌</h3>
+        <p class="hint">
+          原生 iframe 受 X-Frame-Options / CSP 限制，很多站点无法被嵌入；第三方库（无界
+          wujie）通过代理与隔离沙箱， 可嵌入更多页面并支持子应用预加载、保活与通信。
+        </p>
+      </div>
+    </div>
+
+    <script>
+      var count = 0
+      var countEl = document.getElementById('count')
+      document.getElementById('incBtn').addEventListener('click', function () {
+        count++
+        countEl.textContent = count
+      })
+      document.getElementById('resetBtn').addEventListener('click', function () {
+        count = 0
+        countEl.textContent = count
+      })
+      document.getElementById('themeBtn').addEventListener('click', function () {
+        document.body.classList.toggle('dark')
+      })
+    </script>
+  </body>
+</html>

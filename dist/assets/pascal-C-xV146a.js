@@ -1,0 +1,1 @@
+import{Lr as r}from"./vendor-CKbJEPZn.js";export{r as pascal};

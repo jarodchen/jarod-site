@@ -1,0 +1,1 @@
+import{t}from"./html2canvas-C4vYilSj.js";export default t();

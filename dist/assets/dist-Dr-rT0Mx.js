@@ -1,0 +1,1 @@
+import{ba as a,xa as o}from"./vendor-CKbJEPZn.js";export{a as rust};

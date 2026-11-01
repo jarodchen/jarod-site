@@ -1,0 +1,1 @@
+import{t}from"./SectionCard-BdoBnhep.js";export{t as default};

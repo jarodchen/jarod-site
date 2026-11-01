@@ -1,0 +1,1 @@
+import{Yn as o}from"./vendor-CKbJEPZn.js";export{o as webIDL};

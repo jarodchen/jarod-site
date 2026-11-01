@@ -1,0 +1,1 @@
+import{fi as o}from"./vendor-CKbJEPZn.js";export{o as gas};

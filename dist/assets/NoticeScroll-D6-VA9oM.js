@@ -1,0 +1,1 @@
+import{t as o}from"./NoticeScroll-B_0oDXS9.js";export{o as default};
