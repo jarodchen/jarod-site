@@ -1,0 +1,1 @@
+import{t}from"./TemplateDialog-Dx_mdwzW.js";export{t as default};

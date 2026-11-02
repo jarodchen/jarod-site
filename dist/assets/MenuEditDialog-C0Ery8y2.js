@@ -1,0 +1,1 @@
+import{t}from"./MenuEditDialog-K0oKtkR-.js";export{t as default};

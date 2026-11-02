@@ -1,1 +1,0 @@
-import{t}from"./StatCards-BUVe-FAN.js";export{t as default};

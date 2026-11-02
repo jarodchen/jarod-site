@@ -1,0 +1,1 @@
+import{t}from"./RegisterDialog-DxTNKkJ6.js";export{t as default};
