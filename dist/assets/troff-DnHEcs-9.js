@@ -1,1 +1,0 @@
-import{ir as r}from"./vendor-CKbJEPZn.js";export{r as troff};

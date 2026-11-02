@@ -1,1 +1,0 @@
-import{vr as r}from"./vendor-CKbJEPZn.js";export{r as smalltalk};

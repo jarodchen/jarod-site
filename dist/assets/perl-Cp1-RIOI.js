@@ -1,1 +1,0 @@
-import{Ir as r}from"./vendor-CKbJEPZn.js";export{r as perl};

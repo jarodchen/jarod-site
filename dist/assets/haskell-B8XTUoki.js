@@ -1,1 +1,0 @@
-import{li as o}from"./vendor-CKbJEPZn.js";export{o as haskell};

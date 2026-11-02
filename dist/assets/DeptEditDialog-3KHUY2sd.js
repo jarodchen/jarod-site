@@ -1,0 +1,1 @@
+import{t}from"./DeptEditDialog-DjwxCJ0x.js";export{t as default};

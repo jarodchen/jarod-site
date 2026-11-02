@@ -1,0 +1,1 @@
+import{Bn as r,Hn as o,Un as s,Vn as a}from"./codemirror-C6BOnpq5.js";export{o as python};

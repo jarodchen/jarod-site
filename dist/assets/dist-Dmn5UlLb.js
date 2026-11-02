@@ -1,1 +1,0 @@
-import{_a as a,va as o,ya as r}from"./vendor-CKbJEPZn.js";export{a as sass};

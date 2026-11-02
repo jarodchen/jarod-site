@@ -1,0 +1,1 @@
+import{t}from"./DictTypeEditDialog-CENI91c1.js";export{t as default};

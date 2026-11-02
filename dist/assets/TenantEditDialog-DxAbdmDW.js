@@ -1,0 +1,1 @@
+import{t}from"./TenantEditDialog-CQFM580i.js";export{t as default};
