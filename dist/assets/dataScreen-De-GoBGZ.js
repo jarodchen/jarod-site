@@ -1,0 +1,1 @@
+import{t as a}from"./dataScreen-CRPtG4DW.js";export{a as default};
